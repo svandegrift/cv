@@ -13,3 +13,7 @@ hr {
 .japanese {
     font-family: 'M PLUS Rounded 1c', sans-serif;
 }
+
+h1, h3 {
+    color: #2c3e50;
+}
